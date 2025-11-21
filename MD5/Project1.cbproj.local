@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.018,=C:\Users\ACER\Desktop\курсовая\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,C:\Users\ACER\Desktop\курсовая\Project1PCH1.h=C:\Users\ACER\Desktop\MD5\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Users\ACER\Desktop\курсовая\Project1.cbproj=C:\Users\ACER\Desktop\MD5\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,C:\Users\ACER\Desktop\курсовая\Unit1.h=C:\Users\ACER\Desktop\MD5\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,C:\Users\ACER\Desktop\курсовая\Unit1.dfm=C:\Users\ACER\Desktop\MD5\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\ACER\Desktop\курсовая\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\ACER\Desktop\курсовая\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,C:\Users\ACER\Desktop\курсовая\Unit1.cpp=C:\Users\ACER\Desktop\MD5\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=C:\Users\ACER\Desktop\курсовая\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Users\ACER\Desktop\курсовая\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,=C:\Users\ACER\Desktop\курсовая\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
