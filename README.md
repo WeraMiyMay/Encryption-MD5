@@ -46,13 +46,6 @@
    - Button3 → Генерация хеша  
 5. Итоговый хеш появится в `Edit5`  
 
----
-
-## 🎥 Видео‑разбор (TikTok)
- 
-**https://www.tiktok.com/@alfachonguk2008/video/7426455118964346117?amp%3Bt=1729143153248&q=alphachonguck2008**
-
----
 
 ## 📁 Структура проекта
 
@@ -119,11 +112,7 @@ The algorithm follows the classic MD5 steps:
 
 ---
 
-## 🎥 Video Explanation (TikTok)
 
-**https://www.tiktok.com/@alfachonguk2008/video/7426455118964346117?amp%3Bt=1729143153248&q=alphachonguck2008**
-
----
 
 ## 📁 Project Structure
 
